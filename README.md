@@ -38,6 +38,7 @@ The app relies on:
 2. Fork the repository and create a feature branch.
 3. Commit your changes with clear messages and open a pull request.
 4. Make sure your code follows community standards and includes documentation where appropriate.
+5. By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Usage Disclaimer
 
