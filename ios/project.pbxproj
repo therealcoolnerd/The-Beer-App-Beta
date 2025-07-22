@@ -1,0 +1,3 @@
+// Placeholder Xcode project file for iOS module
+// Configure Xcode build settings here
+
