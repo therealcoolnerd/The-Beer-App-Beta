@@ -1,0 +1,6 @@
+{
+  "name": "beer-app-backend",
+  "version": "0.1.0",
+  "description": "Placeholder backend configuration",
+  "main": "index.js"
+}

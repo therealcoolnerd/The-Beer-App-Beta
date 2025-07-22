@@ -1,0 +1,6 @@
+# Ignore build and IDE files
+build/
+*.iml
+.idea/
+.DS_Store
+node_modules/
