@@ -40,6 +40,12 @@ The app relies on:
 4. Make sure your code follows community standards and includes documentation where appropriate.
 5. By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## Usage Disclaimer
+## Acceptable Use
 
-Beer App is intended as a respectful community for sharing experiences. Users must not post personal information about others without consent or use the platform to harass or intimidate. Content may be logged for moderation purposes. By using this software you agree to behave responsibly and acknowledge that misuse can lead to account suspension and removal of content.
+Beer App is intended as a respectful community for sharing experiences. When participating you agree to:
+
+* Refrain from harassing, threatening, or doxing anyone.
+* Never post personal information about others without clear consent.
+* Follow our [Code of Conduct](CODE_OF_CONDUCT.md) and the policies outlined in [LEGAL.md](LEGAL.md).
+
+Content may be logged for moderation purposes. Misuse of the platform can lead to account suspension and removal of content.
